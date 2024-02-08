@@ -1,7 +1,7 @@
 <h1 align="center"> NLW Expert 2024 - RocketSeat </h1>
 
 <p align="center">
-Evento exclusivo e gratuito, promovido pela Rocketseat para desenvolvimento de um gerenciador de notas.
+Evento promovido pela Rocketseat para imersão numa trilha de tecnologia para desenvolvimento de um gerenciador de notas e lembretes.
 
 </p>
 
